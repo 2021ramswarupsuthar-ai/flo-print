@@ -1,0 +1,14 @@
+node_modules
+dist
+.data
+.env
+.env.local
+.vercel
+print-agent/.venv
+print-agent/state
+print-agent/downloads
+print-agent/processing
+print-agent/temp
+print-agent/logs
+__pycache__
+*.pyc
